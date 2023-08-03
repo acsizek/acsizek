@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=acsziek&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--
 **acsizek/acsizek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
