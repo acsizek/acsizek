@@ -12,3 +12,4 @@ My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am en
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: alexcsizek.com
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
