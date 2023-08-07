@@ -5,6 +5,7 @@ My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am en
 
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=acsziek&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 
