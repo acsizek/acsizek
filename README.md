@@ -9,7 +9,7 @@ My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am en
 </div>
 
 
-- 🌱 I’m currently learning Objects and built in array methods
+- 🌱 I’m currently learning API's
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: alexcsizek.com
 
