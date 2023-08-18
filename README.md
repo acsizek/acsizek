@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am enrolled in #100Devs bootcamp and working to fufill my dream of becoming a software engineer.
+My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am currently enrolled in #100Devs bootcamp and working to fufill my dream of becoming a software engineer.
 
 
 <div id="badges">
