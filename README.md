@@ -11,7 +11,7 @@ My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am cu
 
 - 🌱 I’m currently learning API's
 - 💬 Ask me about ANYTHING
-- 📫 How to reach me: alexcsizek.com
+- 📫 How to reach me: www.alexcsizek.com
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
