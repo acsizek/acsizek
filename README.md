@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acsizek&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acsizek&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acsizek)](https://github.com/anuraghazra/github-readme-stats)
 
 My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am currently enrolled in #100Devs bootcamp and working to fufill my dream of becoming a software engineer.
 
