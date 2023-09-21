@@ -1,4 +1,4 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acsizek&show_icons=true&theme=radical)
 
 My name is Alex Csizek. I am currently learning HTML,CSS and JavaScript. I am currently enrolled in #100Devs bootcamp and working to fufill my dream of becoming a software engineer.
 
